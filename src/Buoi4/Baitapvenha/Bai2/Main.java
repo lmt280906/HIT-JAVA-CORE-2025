@@ -17,8 +17,8 @@ public class Main {
         System.out.printf("%-15s %-15s %-15s %-15s %-15s %-15s %-15s %-15s%n",
                 "Tên", "Tuổi", "Địa chỉ", "TX1", "TX2", "KTHP", "GPA", "Tiết nghỉ");
 
-        for (Student sv : ds) {
-            sv.xuat();
+        for (Student hihi : ds) {
+            hihi.xuat();
         }
     }
 }
